@@ -1,0 +1,18 @@
+# Ignore build output
+build/
+
+# Ignore logs
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore package.json
+package.json
+
+# Ignore package.json
+package-lock.json
